@@ -1,0 +1,102 @@
+Category,Subcategory,Category_id,Subcategory_id,Links
+Adapter,Adapter,1,2,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DAdapters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Adapter,Waveguide Adapter,1,97,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BBulkhead%2BAdapters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Adapter,Waveguide Adapter,1,97,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BTo%2BCoax%2BAdapters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Amplifier,Amplifier,2,4,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DBi%2520Directional%2520Amplifiers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Amplifier,Amplifier,2,4,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DBroadband%2BAmplifiers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Amplifier,Amplifier,2,4,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DGain%2BBlock%2BAmplifiers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Amplifier,Amplifier,2,4,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DLimiting%2BAmplifiers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Amplifier,Low Noise Amplifier,2,50,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DLow%2520Noise%2520Amplifiers%26Rfacamln99design%3DInput%2BProtected%2BLow%2BNoise%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Amplifier,Low Noise Amplifier,2,50,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DLow%2BNoise%2BAmplifiers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Amplifier,Low Phase Noise Amplifier,2,52,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DLow%2BNoise%2BAmplifiers%26Rfacamln99design%3DLow%2BPhase%2BNoise%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Amplifier,Power Amplifier,2,67,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DPower%2520Amplifiers%26Rfacampa99con4incondmtl%3DGaN%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Amplifier,Power Amplifier,2,67,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DPower%2BAmplifiers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Amplifier,VGA Amplifier,2,90,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DVariable%2BGain%2BAmplifiers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Antenna,Antenna,3,6,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DAntennas%26Rfpsan99design%3DPortable%5EFixed%26sort%3Dy%26initial_sort%3Dselect%3AASC%26res_per_page%3D48%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Antenna,Waveguide Antenna,3,99,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DSpecialty%2BWaveguide%2BAntennas%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Antenna,Waveguide Antenna,3,99,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BAntennas%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Antenna,Waveguide Antenna,3,99,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BAntennas%2Bwith%2BWaveguide%2Bto%2BCoax%2BAdapters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Attenuator,Attenuator,4,8,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DVariable%2BAttenuators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Attenuator,Attenuator,4,8,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DFixed%2BAttenuators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Attenuator,Attenuator,4,8,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DProgrammable%2BAttenuators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Attenuator,Digital Attenuator,4,26,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DStep%2BAttenuators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Attenuator,Voltage Control Attenuator,4,93,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DVoltage%2BVariable%2BAttenuators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Attenuator,Impedance Matching Pad,4,48,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DMatching%2BPads%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Balun,Balun,5,9,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DBaluns%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Bias Tee,Bias Tee,6,12,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DBias%2BTees%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Cable,Test Cable,7,79,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DCable%2BAssemblies%26Rfinca99rfcablegn%3DFM-160FLEX%5EFM-F141%5EFM-102FLEX%5ELL142%5ELL335i%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Cable,VNA Cable,7,91,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DCable%2BAssemblies%26Rfinca99rfcablegn%3DFM-VNA-HF%5EVNA-R%5EArmored%2BTest%5EFM-110TC%5EFM-FT430%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Cable,Cable,7,13,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DCable%2BAssemblies%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Circulator,Circulator,10,16,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DCirculators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Combiner,Combiner,42,121,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DCombiners%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Connector,Connector,43,122,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DConnectors%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Coupler,Coupler,11,20,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DCouplers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Coupler,Coupler,11,20,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DTappers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Coupler,Hybrid Coupler,11,47,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DHybrids%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Coupler,Waveguide Coupler,11,103,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BCouplers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Coupler,Magic Tee,11,123,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2520Magic%2520Tees%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+DC Block,DC Block,13,22,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DDC%2BBlocks%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Detector,Power Detector,31,68,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DDetectors%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Detector,Waveguide Power Detector,31,109,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BDetectors%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Filter,Low Pass Filter,16,51,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DLowpass%2BFilters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Filter,Band Pass Filter,16,10,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DBandpass%2BFilters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Filter,High Pass Filter,16,46,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DHighpass%2BFilters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Filter,Tunable Filter,16,83,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DTunable%2BFilters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Filter,Waveguide Filter,16,105,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BBandpass%2BFilters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Frequency Divider,Frequency Divider,18,39,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DFrequency%2BDividers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Multiplier,Multiplier,25,58,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DFrequency%2BMultipliers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Isolator,Isolator,21,49,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DIsolators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Power Limiter,Power Limiter,33,70,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DLimiters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Mixer,Mixer,23,56,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DMixers%26Rfacmx99design%3DDouble%2BBalanced%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Mixer,Mixer,23,56,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DMixers%26Rfacmx99design%3DIQ%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Mixer,Mixer,23,56,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BConverter%2BMixers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Synthesizer,Synthesizer,37,78,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DSynthesizers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Oscillator,Oscillator,26,60,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DPhase%2520Locked%2520Crystal%2520Oscillators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Oscillator,Oscillator,26,60,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DPhase%2BLocked%2BOscillators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Oscillator,Oscillator,26,60,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DReference%2520Oscillators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Oscillator,Oscillator,26,60,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BGunn%2BOscillators%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Oscillator,Voltage Controlled Oscillator,26,94,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DVoltage%2BControl%2BOscillators%26sort%3Dy%26initial_sort%3Dselect%3AASC%26res_per_page%3D48%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Phase Shifter,Phase Shifter,29,66,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DPhase%2BShifters%2Band%2BTrimmers%26Rfpsph99design%3D8%2520Bit%2520Programmable%2520Phase%2520Shifter%5EVariable%2520Phase%2520Shifter%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Phase Shifter,Waveguide Phase Shifter,29,108,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2520Phase%2520Shifters%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Phase Shifter,Phase Trimmer,29,124,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DPhase%2BShifters%2Band%2BTrimmers%26Rfpsph99design%3DAdjustable%2BPhase%2BTrimmer%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Power Divider,Power Divider,32,69,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DPower%2BDividers%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Rotary Joint,Rotary Joint,35,75,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DRotary%2BJoints%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Switch,Electromechanical Switch,36,33,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DElectromechanical%2BRelay%2BSwitches%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Switch,Switch,36,76,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DPIN%2BDiode%2BSwitches%26Rfacswpinstd99spec7%3DGaN%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Switch,Switch,36,76,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DHigh%2BIsolation%2BSwitches%26sort%3Dy%26initial_sort%3Dselect%3AASC%26res_per_page%3D48%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Switch,Switch,36,76,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DElectromechanical%2BRelay%2BSwitches%26keywords%3Drepeatability%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Switch,Switch,36,76,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DPIN%2BDiode%2BSwitches%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Switch,Switch,36,76,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DElectromechanical%2BRelay%2BSwitches%26Rfacswelm99conntermsubtype%3DSurface%2BMount%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Switch,USB Switch,36,87,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DHigh%2BIsolation%2BUSB%2BSwitches%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Switch,Waveguide Switch,36,111,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2520Electromechanical%2520Relay%2520Switches%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Switch,Waveguide Switch,36,111,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2520PIN%2520Diode%2520Switches%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Load,Load,22,125,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DTerminations%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Load,Waveguide Load,22,107,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2BTerminations%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+,,,,
+Waveguide,Waveguide,41,96,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DWaveguide%2520Transitions%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
+Waveguide,Flexible Waveguide,41,38,https://www.fairviewmicrowave.com/nsearchhandler.ashx?wrapperPageQuery=Category%3DFlexible%2520Waveguides%26sort%3Dy%26view_type%3Dtable&requested_fields=all&iDisplayLength=100
